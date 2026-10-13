@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Hello",
+      "status": true,
+      "date": "11.02.2002"
+    },
+    {
+      "text": "Покушать",
+      "status": "true",
+      "date": "2026-10-08",
+      "id": "Mr5TR0jz-0U"
+    },
+    {
+      "text": "Поспать ",
+      "status": "true",
+      "date": "2026-10-09",
+      "id": "45FRE6lAbtY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
